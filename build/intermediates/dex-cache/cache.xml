@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\b2a2be063ace048c1d8a1b651fbcffa7bdbefbbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79784309a60527af7c598352415246b51ff5682f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\874160db61e55a1425faa903950f823c179bfb15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41ed2efb2b12bd18ba94d44e4f56d565b5a0b8c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_9e39f98bb961c405f8e5c9a86428b6e860d0213b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\b271eb3b152dd87d127e0f392c08cf4c2c77de30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b645c6119abdb3e0272b01983ec9625277bbafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\0d7ff7300c1b731026064947069b4568dac96b1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6622c9b6a0e215519fca55b17448511d13de387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af94150a9077e9e1ad3a1473747da7156e8a669b">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a5e719c2167516bbb2ef8caa65a2a983971d3e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\414284cfe3cfd91cd55cfc1f768676657e088b57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6213a0090814b0840a37a91cc40229dd0eff2c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f02055e09faef6c1ba55ebd2fb4ea2c17cbc8ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\33df74c045b03cda095e167cbd2e1a3b61a2fa46\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b8b03a8519491e52569cda5f6667e91bdbc4d996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\cb94f8fad795749df0ec9eeca92f8ace0b2c3818\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c608984f1915d6c28b229014f105c3db4303c1f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\b2a2be063ace048c1d8a1b651fbcffa7bdbefbbe\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fe0a7e3d86d687528c09e4706e39029d9537c1e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\00258ba05057326a1f62c678bc130fae9bc8ed91\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_616343e6e25afa75cb09fe4560f98a90e735e87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\31f716329b6f98fb3f228ff091e41ac7b4269b69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0913489fd594bf4e4b6aa5211777b609fa93d14c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\5d13b3258343090b01406678fed0e02dcba019a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dfaabf4e8e6433727a9790c2e88904b1fac8822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\5d13b3258343090b01406678fed0e02dcba019a5\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_411beef2defca225b9381580298f292fbc25a434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\19f157d0d0d71cddd9611391a2af346c3446fda0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94f7b9d94bcf13b03910e7ac3ceb6443595d89ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\00258ba05057326a1f62c678bc130fae9bc8ed91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e78a5ecbb80961f964912c12fb70e906ce778be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\fbc47a2b11772a6ed7c94737b76eb94c64b1d83f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc303615ab60d246c6f7f262a95415c9bf97101b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\518d65f639856290491ce459982be4a08b88aa9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdd0a56417f198dcdb1d6a59a5d8b028bb76a2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\33df74c045b03cda095e167cbd2e1a3b61a2fa46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e8489c9f9fecbd1601304668c78fd8ea0208499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\e33ae6ccc93c014775f149d3ec7563bb6eb9398e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d241c59b100537c82485268102e98c12c34e18d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_37c9b6a54f6f649e74ba0b5ece0e5bec38b57ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\414284cfe3cfd91cd55cfc1f768676657e088b57\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_09f9ad5155db522319be312f835f71fe0235c701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor Ferrada\.android\build-cache\19668c520f69b357217f4de3944ae4764ff2b94b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="C:\ProyectosAndroid\Platzigram-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d7f990dad9112d1342df51409ad562d1d1e7aa0\classes.dex" />
+    </item>
+
+</items>
